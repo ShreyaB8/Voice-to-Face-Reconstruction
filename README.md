@@ -1,6 +1,6 @@
 # Voice-to-Face-Reconstruction
 
-Shreyashri Biswas, Adeesh Bharghava, Hanzhi Yin, Joseph Bajor
+Shreyashri Biswas, Adeesh Bharghava, Hanzhi Yin, Joseph Bajor  
 Course 11785, Carnegie Mellon University
 
 
